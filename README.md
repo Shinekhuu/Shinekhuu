@@ -12,13 +12,11 @@ Backend and infrastructure engineer with **13+ years** building and operating pr
 
 # Impact
 
-|                                |                                                            |
-| ------------------------------ | ---------------------------------------------------------- |
-| **90%** CDN cost reduction     | Infrastructure optimization and caching redesign           |
-| **50%** compute cost reduction | Architecture improvements and modernization                |
-| **99.9%+ uptime**              | Live consumer-facing production systems                    |
-| **Zero-downtime deployments**  | Automated CI/CD and GitOps workflows                       |
-| **Multi-cloud Kubernetes**     | Production platforms on AWS EKS, GKE, and DigitalOcean     |
+- 90% CDN cost reduction
+- 50% compute cost reduction
+- 99.9%+ uptime
+- Zero-downtime deployments
+- Multi-cloud Kubernetes (AWS, GCP, DigitalOcean)
 
 ---
 
@@ -36,7 +34,7 @@ Backend and infrastructure engineer with **13+ years** building and operating pr
 
 # Featured Project — GoCars Platform
 
-A production-grade, cloud-native marketplace platform. The product is currently paused, but the entire stack is public across the pinned repos.
+A production-grade, cloud-native marketplace platform. The entire stack is public across the pinned repositories.
 
 ```text
 aws-infrastructure → aws-platform → gitops → applications
@@ -60,16 +58,16 @@ IRSA · Terraform       Grafana · DNS       Meilisearch · Supabase
 ## Independent Consultant · Platform & Backend Engineering
 **Apr 2026 – Present**
 
-Building production systems with Go, Kubernetes, Terraform, AWS, GCP and OpenAI. Most recent: gocars.mn (see Featured Project above).
+Building production systems with Go, Kubernetes, Terraform, AWS, GCP, and OpenAI, including a cloud-native auto-parts marketplace with intelligent search and AI-powered categorization.
 
-## Hands-on CTO — M Music LLC
+## Lead Platform & Backend Engineer (Hands-on CTO) — M Music LLC
 **Jun 2022 – Mar 2026**
 
 Led platform engineering and cloud infrastructure across AWS EKS, GKE and DigitalOcean Kubernetes. Drove the 90% CDN and 50% compute cost reductions, zero-downtime deployments, event-driven systems, and analytics pipelines across live consumer-facing platforms.
 
 *Products:* [MMusic](https://mmusic.mn) · [MKaraoke](https://mkaraoke.mn) (Home / B2B / Global)
 
-## Founding Engineer → Hands-on CTO — WorldPlus Digital LLC
+## Founding Engineer → Engineering Lead (Hands-on CTO) — WorldPlus Digital LLC
 **May 2017 – Jun 2022**
 *formerly Woovoo Technology → Woovoo Limited → WorldPlus Digital — one company through two renames*
 
