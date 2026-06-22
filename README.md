@@ -73,7 +73,7 @@ Led platform engineering and cloud infrastructure across AWS EKS, GKE and Digita
 **May 2017 – Jun 2022**
 *formerly Woovoo Technology → Woovoo Limited → WorldPlus Digital — one company through two renames*
 
-Progressed from Android Developer to backend engineer, DevOps engineer, engineering manager and ultimately CTO. Led the monolith → microservices migration, Kubernetes adoption, observability platforms, and RPA automation. Served on the ISO/IEC 27001 ISMS founding team (progressed through internal audit). Delivered MundoPlus to a Spanish magazine publisher; built MyNewsStand+ with Singapore Press Holdings (discontinued due to COVID-19); initiated partnership discussions with Huawei; built and sold the Mazzi real-time chat app to a South Korean client.
+Progressed from Android Developer to backend engineer, DevOps engineer, engineering manager and ultimately CTO. Architected and implemented the decomposition of a monolith into independently deployable microservices, enabling zero-downtime GitOps releases, and drove Kubernetes adoption, observability platforms, and RPA automation. Served on the ISO/IEC 27001 ISMS founding team (progressed through internal audit). Built white-label publishing platforms for enterprise media clients, including Singapore Press Holdings (Singapore) and a Spanish magazine publisher — delivered MundoPlus to the Spanish publisher, while the SPH platform (MyNewsStand+) was discontinued due to COVID-19. Initiated partnership discussions with Huawei; built and sold the Mazzi real-time chat app to a South Korean client.
 
 *Products:* [WorldPlus](https://worldplus.com) · [MBook](https://m-book.mn) · Fomi · MundoPlus
 
@@ -89,7 +89,5 @@ Built government and commercial platforms end-to-end — backend, databases, fro
 # Open To
 
 Senior Platform Engineer · Staff / Senior Backend Engineer · Senior Software Engineer · DevOps Engineer · Infrastructure Engineer · Full-Stack Engineer — **remote, worldwide.**
-
----
 
 > Building reliable systems, not just applications.
