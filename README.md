@@ -18,7 +18,7 @@ Backend and infrastructure engineer with **13+ years** building and operating pr
 | **50%** compute cost reduction | Architecture improvements and modernization                |
 | **99.9%+ uptime**              | Live consumer-facing production systems                    |
 | **Zero-downtime deployments**  | Automated CI/CD and GitOps workflows                       |
-| **20+ engineers led**          | Cross-functional engineering, product, and marketing teams |
+| **Multi-cloud Kubernetes**     | Production platforms on AWS EKS, GKE, and DigitalOcean     |
 
 ---
 
@@ -89,5 +89,7 @@ Built government and commercial platforms end-to-end — backend, databases, fro
 # Open To
 
 Senior Platform Engineer · Staff / Senior Backend Engineer · Senior Software Engineer · DevOps Engineer · Infrastructure Engineer · Full-Stack Engineer — **remote, worldwide.**
+
+---
 
 > Building reliable systems, not just applications.
